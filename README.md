@@ -2,6 +2,8 @@
 
 Weather app using openweathermap api, React, Redux & Typescript.
 
+![](./app.png)
+
 In the project directory, you can run:
 
 ### `npm install` 
